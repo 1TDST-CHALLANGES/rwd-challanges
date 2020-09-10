@@ -4,37 +4,166 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="./css/bootstrap.css">
-<!--<link rel="stylesheet" href="css/style.css" type="text/css">-->
+<link rel="stylesheet" href="device-mockups/device-mockups.min.css">
+<link href="css/new-age.min.css" rel="stylesheet">
 <title>SLASHICORP</title>
 <link rel="icon" type="image/x-icon" href="img/ico/logo_ico.png" />
 </head>
 <body>
  	<header>
-		<nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
-            <div class="container">
-                <a class="navbar-brand js-scroll-trigger" href="#page-top">SLASHICORP</a>
-                <button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                    Menu
-                    <i class="fas fa-bars"></i>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarResponsive">
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#portfolio">EQUIPE</a></li>
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about">SOBRE</a></li>
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#contact">CONTATO</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand" href="#">
+        <img src="img/ico/logo_ico.png" width="25" height="25" class="d-inline-block align-top" alt="" loading="lazy"> SLASHICORP
+      </a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          Menu
+          <i class="fas fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <button class="btn btn-dark mr-sm-2" type="button" data-toggle="modal" data-target="#box-login">Login</button>
+            </li>
+            <li class="nav-item">
+              <button class="btn btn-dark my-2 my-sm-0" type="button" data-toggle="modal" data-target="#box-registro">Registre-se</button>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <div class="modal fade" role="dialog" id="box-login">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4>Login de Usuários</h4>
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+          </div>
+          <div class="modal-body">
+
+            <form action="index.php" method="post">
+              <div class="form-group">
+                <label for="exampleInputEmail1">Email</label>
+                <input type="email" class="form-control" name="txt-user" id="nm-user" aria-describedby="emailHelp" required="required" class="form-control">
+                <small id="emailHelp" class="form-text text-muted">Não compartilhe seus dados de login com ninguém</small>
+              </div>
+              <div class="form-group">
+                <label for="pass-user">Senha</label>
+                <input type="password" class="form-control" name="txt-pass" id="pass-user" required="required" >
+              </div>
+              <div class="form-group form-check">
+                <input type="checkbox" class="form-check-input"
+                       id="exampleCheck1"> <label class="form-check-label"
+                                                  for="exampleCheck1">Lembre de mim</label>
+              </div>
+              <button type="submit" class="btn btn-dark">Enviar</button>
+            </form>
+          </div>
+          <div class="modal-footer">
+            <button type="button" data-dismiss="modal" class="btn btn-danger">Fechar</button>
+          </div>
+        </div>
+
+      </div>
+    </div>
 	</header>
 
-	<section>
+  <header class="masthead">
+    <div class="container h-100">
+      <div class="row h-100">
+        <div class="col-lg-7 my-auto">
+          <div class="header-content mx-auto">
+            <h1 class="mb-5">Sistema de digitalização, envio e recebimento de documentos para auxiliar e agilizar o trabalho dos profissionais de RH no processo de registro de um novo colaborador.</h1>
+          </div>
+        </div>
+        <div class="col-lg-5 my-auto">
+                <div class="screen">
+                  <img src="img/ilus.png" class="img-fluid" alt="">
+                </div>
+        </div>
+      </div>
+    </div>
+  </header>
 
-	</section>
+  <section class="features" id="features">
+    <div class="container">
+      <div class="section-heading text-center">
+        <h2>Como funciona?</h2>
+        <p class="text-muted">Check out what you can do with this app theme!</p>
+        <hr>
+      </div>
+      <div class="row">
+        <div class="col-lg-4 my-auto">
+          <div class="device-container">
+            <div class="device-mockup iphone6_plus portrait black">
+              <div class="device">
+                <div class="screen">
+                  <img src="img/demo-screen-1.jpg" class="img-fluid" alt="">
+                </div>
+                <div class="button">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-8 my-auto">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-lg-6">
+                <div class="feature-item">
+                  <i class="icon-screen-smartphone text-primary"></i>
+                  <h3>Device Mockups</h3>
+                  <p class="text-muted">Ready to use HTML/CSS device mockups, no Photoshop required!</p>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="feature-item">
+                  <i class="icon-camera text-primary"></i>
+                  <h3>Flexible Use</h3>
+                  <p class="text-muted">Put an image, video, animation, or anything else in the screen!</p>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-lg-6">
+                <div class="feature-item">
+                  <i class="icon-present text-primary"></i>
+                  <h3>Free to Use</h3>
+                  <p class="text-muted">As always, this theme is free to download and use for any purpose!</p>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="feature-item">
+                  <i class="icon-lock-open text-primary"></i>
+                  <h3>Open Source</h3>
+                  <p class="text-muted">Since this theme is MIT licensed, you can use it commercially!</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
-	<footer>
 
-	</footer>
+  <footer>
+    <div class="container">
+      <p>&copy; SLASHICORP 2020. Todos os direitos reservados.</p>
+      <ul class="list-inline">
+        <li class="list-inline-item">
+          <a href="#">Privacidade</a>
+        </li>
+        <li class="list-inline-item">
+          <a href="#">Termos</a>
+        </li>
+        <li class="list-inline-item">
+          <a href="#">FAQ</a>
+        </li>
+      </ul>
+    </div>
+  </footer>
 
 <script type="text/javascript" src="js/jquery-3.5.1.js"></script>
 <script type="text/javascript" src="js/bootstrap.js"></script>
