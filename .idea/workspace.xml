@@ -21,12 +21,22 @@
   <component name="ChangeListManager">
     <list default="true" id="32b26e56-9ba7-4f23-9a1b-242b00f16134" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/relogio.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,6 +50,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -54,6 +66,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/css" />
@@ -71,7 +86,11 @@
       <workItem from="1599700837138" duration="531000" />
       <workItem from="1599701987868" duration="655000" />
       <workItem from="1599763028277" duration="14842000" />
-      <workItem from="1599787792428" duration="295000" />
+      <workItem from="1599787792428" duration="663000" />
+      <workItem from="1599790146401" duration="349000" />
+      <workItem from="1599832504236" duration="8860000" />
+      <workItem from="1599853056893" duration="8041000" />
+      <workItem from="1599864886820" duration="264000" />
     </task>
     <servers />
   </component>
@@ -107,9 +126,9 @@
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state x="1749" y="179" key="SettingsEditor/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1599700874195" />
-    <state x="2586" y="226" width="587" height="789" key="find.popup" timestamp="1599772659500">
+    <state x="2586" y="226" width="587" height="789" key="find.popup" timestamp="1599838806584">
       <screen x="1920" y="0" width="1920" height="1200" />
     </state>
-    <state x="2586" y="226" width="587" height="789" key="find.popup/1920.0.1920.1200/0.60.1920.1080@1920.0.1920.1200" timestamp="1599772659500" />
+    <state x="2586" y="226" width="587" height="789" key="find.popup/1920.0.1920.1200/0.60.1920.1080@1920.0.1920.1200" timestamp="1599838806584" />
   </component>
 </project>
