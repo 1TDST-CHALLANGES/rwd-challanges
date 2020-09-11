@@ -20,101 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32b26e56-9ba7-4f23-9a1b-242b00f16134" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/device-mockups/.device-mockups.css.kate-swp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/apple_watch/edition/gold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/apple_watch/edition/rose.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/apple_watch/sport/black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/apple_watch/sport/blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/apple_watch/sport/green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/apple_watch/sport/red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/apple_watch/sport/white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/apple_watch/watch/metal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/apple_watch/watch/steel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/device-mockups.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/device-mockups.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/device-mockups2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/device-mockups2.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/galaxy_s3/s3_land_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/galaxy_s3/s3_land_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/galaxy_s3/s3_port_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/galaxy_s3/s3_port_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/galaxy_s5/galaxy_s5_land_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/galaxy_s5/galaxy_s5_land_gold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/galaxy_s5/galaxy_s5_land_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/galaxy_s5/galaxy_s5_port_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/galaxy_s5/galaxy_s5_port_gold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/galaxy_s5/galaxy_s5_port_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/galaxy_tab4/galaxy_tab4_land_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/galaxy_tab4/galaxy_tab4_land_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/galaxy_tab4_small/galaxy_tab4_black_small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/galaxy_tab4_small/galaxy_tab4_white_small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/imac/imac.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/ipad/ipad_land_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/ipad/ipad_land_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/ipad/ipad_port_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/ipad/ipad_port_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/ipad_air/ipad_air_gray_land.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/ipad_air/ipad_air_gray_port.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/ipad_air/ipad_air_silver_land.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/ipad_air/ipad_air_silver_port.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/ipad_air_2/ipad_air_2_gold_land.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/ipad_air_2/ipad_air_2_gold_port.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/ipad_air_2/ipad_air_2_gray_land.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/ipad_air_2/ipad_air_2_gray_port.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/ipad_air_2/ipad_air_2_silver_land.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/ipad_air_2/ipad_air_2_silver_port.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/ipad_pro/ipad_pro_land_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/ipad_pro/ipad_pro_land_gold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/ipad_pro/ipad_pro_land_silver.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/ipad_pro/ipad_pro_port_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/ipad_pro/ipad_pro_port_gold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/ipad_pro/ipad_pro_port_silver.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone5/iphone5_land_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone5/iphone5_land_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone5/iphone5_port_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone5/iphone5_port_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_6/iphone_6_land_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_6/iphone_6_land_gold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_6/iphone_6_land_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_6/iphone_6_port_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_6/iphone_6_port_gold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_6/iphone_6_port_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_6_plus/iphone_6_plus_black_land.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_6_plus/iphone_6_plus_black_port.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_6_plus/iphone_6_plus_gold_land.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_6_plus/iphone_6_plus_gold_port.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_6_plus/iphone_6_plus_white_land.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_6_plus/iphone_6_plus_white_port.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_se/iphone_se_land_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_se/iphone_se_land_gold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_se/iphone_se_land_rose.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_se/iphone_se_land_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_se/iphone_se_port_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_se/iphone_se_port_gold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_se/iphone_se_port_rose.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_se/iphone_se_port_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_x/iphone_x_black_land.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_x/iphone_x_black_port.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_x/iphone_x_white_land.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/iphone_x/iphone_x_white_port.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/lumia920/lumia920_land.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/lumia920/lumia920_port.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/lumia_930/lumia_930_dark_land.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/lumia_930/lumia_930_dark_port.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/lumia_930/lumia_930_light_land.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/lumia_930/lumia_930_light_port.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/macbook/macbook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/macbook_2015/gold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/macbook_2015/grey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/macbook_2015/silver.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/nexus7/nexus7_land.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/nexus7/nexus7_port.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/nexus_6/nexus_6_land.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/nexus_6/nexus_6_port.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/samsung_tv/samsung_tv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/device-mockups/surface/surface.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/new-age.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/new-age.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +72,7 @@
       <updated>1599700835649</updated>
       <workItem from="1599700837138" duration="531000" />
       <workItem from="1599701987868" duration="655000" />
-      <workItem from="1599763028277" duration="9608000" />
+      <workItem from="1599763028277" duration="14559000" />
     </task>
     <servers />
   </component>
