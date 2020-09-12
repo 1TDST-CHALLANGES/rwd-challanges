@@ -21,9 +21,23 @@
   <component name="ChangeListManager">
     <list default="true" id="32b26e56-9ba7-4f23-9a1b-242b00f16134" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/relogio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bracket.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/ionicons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/new-age.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/controleRH.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/controleRH.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/demo-screen-1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +104,8 @@
       <workItem from="1599790146401" duration="349000" />
       <workItem from="1599832504236" duration="8860000" />
       <workItem from="1599853056893" duration="8041000" />
-      <workItem from="1599864886820" duration="264000" />
+      <workItem from="1599864886820" duration="374000" />
+      <workItem from="1599870164607" duration="5991000" />
     </task>
     <servers />
   </component>
