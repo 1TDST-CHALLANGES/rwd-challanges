@@ -53,8 +53,6 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 }
 
 body {
-  position: relative;
-  color: black;
   background: url("../img/bg-pattern.png"), linear-gradient(to left, #05B295, #03705E)!important;
 }
 

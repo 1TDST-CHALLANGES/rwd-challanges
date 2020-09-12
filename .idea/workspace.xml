@@ -21,23 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="32b26e56-9ba7-4f23-9a1b-242b00f16134" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bracket.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/ionicons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/new-age.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/new-age.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/sytle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/controleRH.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/controleRH.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/demo-screen-1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +91,9 @@
       <workItem from="1599832504236" duration="8860000" />
       <workItem from="1599853056893" duration="8041000" />
       <workItem from="1599864886820" duration="374000" />
-      <workItem from="1599870164607" duration="5991000" />
+      <workItem from="1599870164607" duration="6048000" />
+      <workItem from="1599945754294" duration="1336000" />
+      <workItem from="1599947178065" duration="1673000" />
     </task>
     <servers />
   </component>
@@ -137,10 +125,11 @@
       <screen x="1920" y="0" width="1920" height="1200" />
     </state>
     <state x="2664" y="378" key="FileChooserDialogImpl/1920.0.1920.1200/0.60.1920.1080@1920.0.1920.1200" timestamp="1599701983805" />
-    <state x="1749" y="179" key="SettingsEditor" timestamp="1599700874195">
-      <screen x="1280" y="0" width="1920" height="1080" />
+    <state x="469" y="239" key="SettingsEditor" timestamp="1599947099011">
+      <screen x="0" y="60" width="1920" height="1080" />
     </state>
     <state x="1749" y="179" key="SettingsEditor/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1599700874195" />
+    <state x="469" y="239" key="SettingsEditor/1920.0.1920.1200/0.60.1920.1080@0.60.1920.1080" timestamp="1599947099011" />
     <state x="2586" y="226" width="587" height="789" key="find.popup" timestamp="1599838806584">
       <screen x="1920" y="0" width="1920" height="1200" />
     </state>
