@@ -19,24 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32b26e56-9ba7-4f23-9a1b-242b00f16134" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/new-age.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/sytle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/controleRH.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/controleRH.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="32b26e56-9ba7-4f23-9a1b-242b00f16134" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,29 +37,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/css" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/css" />
-      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/img/ico" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -83,17 +57,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599700835649</updated>
-      <workItem from="1599700837138" duration="531000" />
-      <workItem from="1599701987868" duration="655000" />
-      <workItem from="1599763028277" duration="14842000" />
-      <workItem from="1599787792428" duration="663000" />
-      <workItem from="1599790146401" duration="349000" />
-      <workItem from="1599832504236" duration="8860000" />
-      <workItem from="1599853056893" duration="8041000" />
-      <workItem from="1599864886820" duration="374000" />
-      <workItem from="1599870164607" duration="6048000" />
-      <workItem from="1599945754294" duration="1336000" />
-      <workItem from="1599947178065" duration="1673000" />
+      <workItem from="1599700837138" duration="980000" />
+      <workItem from="1599959072542" duration="842000" />
+      <workItem from="1600006704997" duration="7428000" />
     </task>
     <servers />
   </component>
@@ -113,26 +79,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2559" y="425" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599776559812">
-      <screen x="1920" y="0" width="1920" height="1200" />
+    <state x="1874" y="237" key="#Inspections" timestamp="1600011758696">
+      <screen x="1280" y="23" width="1920" height="1057" />
     </state>
-    <state x="2559" y="425" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1200/0.60.1920.1080@1920.0.1920.1200" timestamp="1599776559812" />
-    <state x="1978" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599701040749">
-      <screen x="1280" y="0" width="1920" height="1080" />
+    <state x="1874" y="237" key="#Inspections/1280.23.1920.1057/0.23.1280.777@1280.23.1920.1057" timestamp="1600011758696" />
+    <state x="1978" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600010263359">
+      <screen x="1280" y="23" width="1920" height="1057" />
     </state>
     <state x="1978" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1599701040749" />
-    <state x="2664" y="378" key="FileChooserDialogImpl" timestamp="1599701983805">
-      <screen x="1920" y="0" width="1920" height="1200" />
-    </state>
-    <state x="2664" y="378" key="FileChooserDialogImpl/1920.0.1920.1200/0.60.1920.1080@1920.0.1920.1200" timestamp="1599701983805" />
-    <state x="469" y="239" key="SettingsEditor" timestamp="1599947099011">
-      <screen x="0" y="60" width="1920" height="1080" />
+    <state x="1978" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1280.23.1920.1057/0.23.1280.777@1280.23.1920.1057" timestamp="1600010263359" />
+    <state x="1749" y="179" key="SettingsEditor" timestamp="1599700874195">
+      <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state x="1749" y="179" key="SettingsEditor/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1599700874195" />
-    <state x="469" y="239" key="SettingsEditor/1920.0.1920.1200/0.60.1920.1080@0.60.1920.1080" timestamp="1599947099011" />
-    <state x="2586" y="226" width="587" height="789" key="find.popup" timestamp="1599838806584">
-      <screen x="1920" y="0" width="1920" height="1200" />
+    <state x="1947" y="184" width="586" height="735" key="find.popup" timestamp="1600017156401">
+      <screen x="1280" y="23" width="1920" height="1057" />
     </state>
-    <state x="2586" y="226" width="587" height="789" key="find.popup/1920.0.1920.1200/0.60.1920.1080@1920.0.1920.1200" timestamp="1599838806584" />
+    <state x="1947" y="184" width="586" height="735" key="find.popup/1280.23.1920.1057/0.23.1280.777@1280.23.1920.1057" timestamp="1600017156401" />
   </component>
 </project>
