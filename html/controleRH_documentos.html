@@ -3,10 +3,16 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Controle Colaboradores</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <link href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css" rel="stylesheet" crossorigin="anonymous" />
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <title>Documentos</title>
   <link rel="icon" type="image/x-icon" href="../img/ico/logo_ico_green.png" />
   <link rel="stylesheet" href="../css/bracket.css">
-  <link rel="stylesheet" href="./css/bootstrap.css">
+
 </head>
 <body>
 <div class="br-logo"><a href="saibamais.html" ><span>[</span>SLASHICORP<span>]</span></a></div>
@@ -197,88 +203,64 @@
       </div>
     </div>
 
+
+
     <div class="row row-sm mg-t-20">
       <div class="col-8">
-        <div class="card bd-0 shadow-base pd-30 mg-t-20" style="margin-top: 0px">
-          <div class="d-flex align-items-center justify-content-between mg-b-30">
-            <div>
-              <h6 class="tx-13 tx-uppercase tx-inverse tx-semibold tx-spacing-1">Novos Colaboradores</h6>
-              <p class="mg-b-0"><i class="icon ion-calendar mg-r-5"></i>De Outubro 2020 - Dezembro 2020</p>
-            </div>
-            <a href="" class="btn btn-outline-info btn-oblong tx-11 tx-uppercase tx-mont tx-medium tx-spacing-1 pd-x-30 bd-2">Ver mais</a>
+        <div class="card bd-0 shadow-base pd-30 mg-t-20" >
+          <div>
+            <h6 class="tx-13 tx-uppercase tx-inverse tx-semibold tx-spacing-1">Envio manual de documentos</h6>
+            <p class="mg-b-0"><i class="icon ion-calendar mg-r-5"></i>Para cadastrar documentos manualmente preencha os dados do candidato abaixo: </p>
           </div>
-
-          <table class="table table-valign-middle mg-b-0">
-            <tbody>
-            <tr>
-              <td  style="width: 47px;" class="pd-l-0-force">
-                <img src="../img/img10.jpg" class="wd-40 rounded-circle" alt="">
-              </td>
-              <td>
-                <h6 class="tx-inverse tx-14 mg-b-0">Alexandre Pacheco</h6>
-                <span class="tx-12">@pachecoDEV</span>
-              </td>
-              <td>01 de Novembro de 2020</td>
-            </tr>
-            <tr>
-              <td class="pd-l-0-force">
-                <img src="../img/img9.jpg" class="wd-40 rounded-circle" alt="">
-              </td>
-              <td>
-                <h6 class="tx-inverse tx-14 mg-b-0">Dihogo Teixeira</h6>
-                <span class="tx-12">@dihogoteixeira</span>
-              </td>
-              <td>28 de Outubro de 2020</td>
-            </tr>
-            <tr>
-              <td class="pd-l-0-force">
-                <img src="../img/img6.jpg" class="wd-40 rounded-circle" alt="">
-              </td>
-              <td>
-                <h6 class="tx-inverse tx-14 mg-b-0">Fernando Borgatto</h6>
-                <span class="tx-12">@ferborgatto</span>
-              </td>
-              <td>27 de Outubro de 2020</td>
-            </tr>
-            <tr>
-              <td class="pd-l-0-force">
-                <img src="../img/img5.jpeg" class="wd-40 rounded-circle" alt="">
-              </td>
-              <td>
-                <h6 class="tx-inverse tx-14 mg-b-0">Juan Carlos</h6>
-                <span class="tx-12">@JuanCarlosBS</span>
-              </td>
-              <td>27 de Outubro de 2020</td>
-            </tr>
-            <tr>
-              <td class="pd-l-0-force">
-                <img src="../img/img4.jpg" class="wd-40 rounded-circle" alt="">
-              </td>
-              <td>
-                <h6 class="tx-inverse tx-14 mg-b-0">Paloma Rangel</h6>
-                <span class="tx-12">@palomara</span>
-              </td>
-              <td>27 de Outubro de 2020</td>
-            </tr>
-            </tbody>
-          </table>
-        </div>
-
-        <div class="card shadow-base card-body pd-25 bd-0 mg-t-20">
-          <div class="row">
-            <div class="col-sm-6">
-              <h6 class="card-title tx-uppercase tx-12">Estatistica de vagas</h6>
-              <p class="display-4 tx-medium tx-inverse mg-b-5 tx-lato">26%</p>
-              <div class="progress mg-b-10">
-                <div class="progress-bar bg-primary progress-bar-xs wd-30p" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
+          <br />
+          <form>
+            <form>
+              <div class="form-group">
+                <label for="formGroupExampleInput">Nome</label>
+                <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Nome do candidato">
               </div>
-              <p class="tx-12">Percentual de colaboradoes aprovados referente a quatia disponivel...</p>
+              <div class="form-group">
+                <label for="formGroupExampleInput2">Sobrenome</label>
+                <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="Sobrenome do candidato">
+              </div>
+            </form>
+
+            <form action="/action_page.php">
+              <label for="quantity">Idade: </label>
+              <input type="number" id="quantity" name="quantity" min="0" max="100" step="1" value="30">
+            </form>
+            <br />
+
+            <div class="form-group">
+              <label for="enviaFoto">Enviar Foto</label>
+              <input type="file" class="form-control-file" id="enviaFoto">
             </div>
-            <div class="col-sm-6 mg-t-20 mg-sm-t-0 d-flex align-items-center justify-content-center">
-              <span class="peity-donut" data-peity='{ "fill": ["#0866C6", "#E9ECEF"],  "innerRadius": 60, "radius": 90 }'>325/1250</span>
+            <div class="form-group">
+              <label for="enviaCurriculo">Enviar Curriculo</label>
+              <input type="file" class="form-control-file" id="enviaCurriculo">
             </div>
-          </div>
+            <div class="form-group">
+              <label for="enviaRG">Enviar RG</label>
+              <input type="file" class="form-control-file" id="enviaRG">
+            </div>
+            <div class="form-group">
+              <label for="enviaCPF">Enviar CPF</label>
+              <input type="file" class="form-control-file" id="enviaCPF">
+            </div>
+            <div class="form-group">
+              <label for="enviaComprovante">Comprovante de endereço</label>
+              <input type="file" class="form-control-file" id="enviaComprovante">
+            </div>
+            <br />
+            <button type="submit" class="btn btn-primary mb-2">Enviar
+            </button>
+            <div class="progress">
+              <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+            </div>
+          </form>
         </div>
+
+
 
 
       </div>
@@ -354,6 +336,15 @@
 <script src="../js/bracket.js"></script>
 <script src="../js/ResizeSensor.js"></script>
 <script src="../js/dashboard.js"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+<script src="js/scripts.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js" crossorigin="anonymous"></script>
+<script src="assets/demo/chart-area-demo.js"></script>
+<script src="assets/demo/chart-bar-demo.js"></script>
+<script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js" crossorigin="anonymous"></script>
+<script src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js" crossorigin="anonymous"></script>
+<script src="assets/demo/datatables-demo.js"></script>
 <script>
   $(function(){
     'use strict'
