@@ -5,11 +5,11 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="./css/login.css">
-    <link rel="stylesheet" href="device-mockups/device-mockups.min.css">
-    <link href="css/sytle.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/login.css">
+    <link rel="stylesheet" href="../device-mockups/device-mockups.min.css">
+    <link href="../css/sytle.css" rel="stylesheet">
     <title>SLASHICORP</title>
-    <link rel="icon" type="image/x-icon" href="img/ico/logo_ico_green.png" />
+    <link rel="icon" type="image/x-icon" href="../img/ico/logo_ico_green.png" />
 </head>
 
 <body>
@@ -18,31 +18,38 @@
         <div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
             <div class="card card-signin my-5">
                 <div class="card-body">
-                    <img id="slashi_logotipo" src="img/ico/logotipo_ico_black.png" width="355" height="135" class="d-inline-block align-top" alt="" loading="lazy">
+                    <img id="slashi_logotipo" src="../img/ico/logotipo_ico_green.png" width="355" height="135" class="d-inline-block align-top" alt="" loading="lazy">
                     <br /><br />
-                    <h5 class="card-title text-center">Login</h5>
+                    <h5 class="card-title text-center">Registro</h5>
                     <form class="form-signin" action="html/controleRH.html" method="post">
                         <div class="form-label-group">
-                            <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
+                            <input type="text" id="inputNome" class="form-control" placeholder="Nome" required autofocus>
+                            <label for="inputNome">Nome</label>
+                        </div>
+                        <div class="form-label-group">
+                            <input type="email" id="inputEmail" class="form-control" placeholder="Email" required autofocus>
                             <label for="inputEmail">Email</label>
                         </div>
 
                         <div class="form-label-group">
-                            <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
+                            <input type="password" id="inputPassword" class="form-control" placeholder="Senha" required>
                             <label for="inputPassword">Senha</label>
                         </div>
 
-                        <div class="custom-control custom-checkbox mb-3">
-                            <input type="checkbox" class="custom-control-input" id="customCheck1">
-                            <label class="custom-control-label" for="customCheck1">Lembre de mim</label>
+                        <div class="form-label-group">
+                            <input type="password" id="inputConfiPassword" class="form-control" placeholder="Confirmar Senha" required>
+                            <label for="inputConfiPassword">Confirmar Senha</label>
                         </div>
-                        <button class="btn btn-lg btn-primary btn-block text-uppercase" type="submit">Login</button>
-                        <button class="btn btn-warning btn-lg btn-register btn-block text-uppercase" type="submit" href="html/registro.html">Registre-se</button>
+
+                        <div class="form-group form-check">
+                            <input type="checkbox" class="form-check-input" id="exampleCheck1"> <label class="form-check-label" for="exampleCheck1">Li e aceito os termos de uso.</label>
+                        </div>
+                        <button class="btn btn-warning btn-lg btn-register btn-block text-uppercase" type="submit" href="#">Registre-se</button>
 
                         <hr class="my-4">
-                        <button class="btn btn-lg btn-google btn-block text-uppercase" type="submit"><i class="fab fa-google mr-2"></i> Login com Google</button>
-                        <button class="btn btn-lg btn-facebook btn-block text-uppercase" type="submit"><i class="fab fa-facebook-f mr-2"></i> Login com Facebook</button>
-                        <button class="btn btn-lg btn-link btn-block text-uppercase" type="submit"><a href="html/saibamais.html">Saiba Mais</a></button>
+                        <button class="btn btn-lg btn-google btn-block text-uppercase" type="submit"><i class="fab fa-google mr-2"></i> Registre-se com Google</button>
+                        <button class="btn btn-lg btn-facebook btn-block text-uppercase" type="submit"><i class="fab fa-facebook-f mr-2"></i> Registre-se com Facebook</button>
+                        <button class="btn btn-lg btn-link btn-block text-uppercase" type="submit"><a href="saibamais.html">Saiba Mais</a></button>
 
                     </form>
                 </div>
@@ -92,7 +99,7 @@
         </ul>
     </div>
 </footer>
-<script type="text/javascript" src="js/chat_faq.js"></script>
-<script type="text/javascript" src="js/jquery-3.5.1.js"></script>
-<script type="text/javascript" src="js/bootstrap.js"></script>
+<script type="text/javascript" src="../js/chat_faq.js"></script>
+<script type="text/javascript" src="../js/jquery-3.5.1.js"></script>
+<script type="text/javascript" src="../js/bootstrap.js"></script>
 </body>
