@@ -82932,3 +82932,23 @@ span.faq {
 .principal h2 {
     color: #ffffff;
 }
+
+.box {
+    display: block;
+    width: auto;
+    margin: 10px;
+    padding: 10px;
+    max-width: 1100px;
+}
+
+.box-1{
+    display: flex;
+}
+
+.box-child-1 {
+    flex-basis: 160px;
+}
+
+.box-child-2 {
+    flex-basis: 160px;
+}
